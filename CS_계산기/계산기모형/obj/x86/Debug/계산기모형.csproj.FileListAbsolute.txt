@@ -1,0 +1,15 @@
+C:\Users\dbswn_000\Desktop\소켓 프로그래밍\Projects\계산기모형\계산기모형\bin\Debug\계산기모형.exe
+C:\Users\dbswn_000\Desktop\소켓 프로그래밍\Projects\계산기모형\계산기모형\bin\Debug\계산기모형.pdb
+C:\Users\dbswn_000\Desktop\소켓 프로그래밍\Projects\계산기모형\계산기모형\obj\x86\Debug\계산기모형.Form1.resources
+C:\Users\dbswn_000\Desktop\소켓 프로그래밍\Projects\계산기모형\계산기모형\obj\x86\Debug\계산기모형.Properties.Resources.resources
+C:\Users\dbswn_000\Desktop\소켓 프로그래밍\Projects\계산기모형\계산기모형\obj\x86\Debug\계산기모형.csproj.GenerateResource.Cache
+C:\Users\dbswn_000\Desktop\소켓 프로그래밍\Projects\계산기모형\계산기모형\obj\x86\Debug\계산기모형.exe
+C:\Users\dbswn_000\Desktop\소켓 프로그래밍\Projects\계산기모형\계산기모형\obj\x86\Debug\계산기모형.pdb
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Debug\계산기모형.exe
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Debug\계산기모형.pdb
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\bin\Debug\계산기모형.exe
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\bin\Debug\계산기모형.pdb
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Debug\계산기모형.csprojResolveAssemblyReference.cache
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Debug\계산기모형.Form1.resources
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Debug\계산기모형.Properties.Resources.resources
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Debug\계산기모형.csproj.GenerateResource.Cache

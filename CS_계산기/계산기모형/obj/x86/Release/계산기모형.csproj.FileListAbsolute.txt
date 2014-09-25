@@ -1,0 +1,8 @@
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\bin\Release\계산기모형.exe
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\bin\Release\계산기모형.pdb
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Release\계산기모형.Form1.resources
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Release\계산기모형.Properties.Resources.resources
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Release\계산기모형.csproj.GenerateResource.Cache
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Release\계산기모형.exe
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Release\계산기모형.pdb
+C:\Users\a\Documents\카카오톡 받은 파일\계산기모형(VS2010)\계산기모형\obj\x86\Release\계산기모형.csprojResolveAssemblyReference.cache
